@@ -8,6 +8,4 @@ A regression analysis identifying which patient characteristics and comorbiditie
 - Identified admission type, complication risk, diabetes, back pain, high blood pressure, stroke history, and daily charges as key factors
 - Documented assumptions and limitations, including multicollinearity, outlier sensitivity, and the difference between correlation and causation
 
-[Documentation](https://github.com/hrbergman/postgresql-customer-services-query/blob/main/postgresql-customer-services-query/data-acquisition-documentation.pdf)
-| 
-[Video Presentation](https://youtu.be/jKOE0cG68rc)
+[Video Presentation](https://youtu.be/lsWufIKz89s)
